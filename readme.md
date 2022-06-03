@@ -20,7 +20,7 @@
 
 **Creamos repositorio en GITHUB y acto seguido asociamos con nuestro repo local con los siguientes comandos:**
 
->git remote add origin https://github.com/jagovillora/prueba.git
+>git remote add origin https://github.com/jagovillora/repo01.git
 
 >git branch -M main
 
