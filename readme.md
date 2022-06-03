@@ -26,4 +26,4 @@
 
 >git push -u origin main
 
-<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc"></a></p>
+![BYE!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
