@@ -1,4 +1,4 @@
-# TEST - PRUEBA MD
+# EJERCICIO 1 - REPO01
 **Para crear un repositorio local debemos crear una carpeta con:**
 
 >mkr repo01
