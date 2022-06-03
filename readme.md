@@ -1,2 +1,27 @@
 # TEST - PRUEBA MD
-Para crear este archivo se ha creado con la extensión -md. Se ha creado la cabecera y el texto interior.
+**Para crear un repositorio local debemos crear una carpeta con:**
+
+>mkr repo01
+
+**Acto seguido nos dirigimos a la carpeta creada:**
+
+>cd repo01
+
+**Después:**
+
+>Git init
+
+**Para añadirlo al staging area:**
+
+>Git add readme.md
+
+**Snapshot:**
+>git commit -m "PRIMER COMMIT AÑADIDO"
+
+**Creamos repositorio en GITHUB y acto seguido asociamos con nuestro repo local con los siguientes comandos:**
+
+>git remote add origin https://github.com/jagovillora/prueba.git
+
+>git branch -M main
+
+>git push -u origin main
